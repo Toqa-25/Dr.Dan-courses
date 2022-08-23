@@ -1436,12 +1436,12 @@ margin-bottom:20px;
 /* strt footer style */
 footer{
     background-color: #2b2b2b;
-    padding: 35px 0px 35px 0px;
-    
+    /* padding: 35px 0px 35px 0px; */
 }
 .footer-top{
     max-width: 1140px;
     margin: auto;
+    padding: 35px 0px 35px 0px;
     
 }
 .footer-top-content{
