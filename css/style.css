@@ -965,7 +965,9 @@ ul.dropdown-menu.show li:hover > a {
     .focus-box-content-items-content{
         max-width: 767px;
     }
-    
+    .focus-box-content-items-content-info {
+    padding: 0px 0px 0px 0px;
+}
 }
 
 /* start coaching-business section */
